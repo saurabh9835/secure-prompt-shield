@@ -1,0 +1,12 @@
+{
+  "name": "express-custom-config-example",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "secure-prompt-shield": "file:../.."
+  }
+}

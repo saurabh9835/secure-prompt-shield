@@ -1,0 +1,7 @@
+tests/
+examples/
+docs/
+.eslintrc.js
+.gitignore
+coverage/
+*.log
