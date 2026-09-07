@@ -1,5 +1,7 @@
 # secure-prompt-shield
 
+npm Link : https://www.npmjs.com/package/@sauarbhk/secure-prompt-shield
+
 Framework-agnostic prompt injection detection and risk scoring for AI-powered applications, with first-class Express middleware support.
 
 > ⚠️ **Not a silver bullet.** This is a heuristic, static-analysis shield. No pattern/regex/heuristic detector catches all prompt injection attempts, especially novel or heavily obfuscated ones. Use it as one layer of defense in depth — alongside output filtering, least-privilege tool access, and human review for sensitive actions — not as your only safeguard. See [SECURITY.md](./SECURITY.md).
